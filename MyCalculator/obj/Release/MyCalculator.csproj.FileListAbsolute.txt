@@ -1,0 +1,8 @@
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\bin\Release\MyCalculator.exe.config
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\bin\Release\MyCalculator.exe
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\bin\Release\MyCalculator.pdb
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\obj\Release\MyCalculator.Form1.resources
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\obj\Release\MyCalculator.Properties.Resources.resources
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\obj\Release\MyCalculator.csproj.GenerateResource.Cache
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\obj\Release\MyCalculator.exe
+C:\Marco\Projects\Basic Calculator\MyCalculator\MyCalculator\obj\Release\MyCalculator.pdb
